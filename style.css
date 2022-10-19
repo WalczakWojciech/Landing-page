@@ -110,6 +110,9 @@ button.sign-up {
     border: none;
     text-align: center;
 }
+button.sign-up:hover {
+    color: rgb(21, 201, 241);
+}
 .call button.sign-up {
     border: 2px solid white;
 }
