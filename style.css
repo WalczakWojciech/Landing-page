@@ -116,7 +116,6 @@ button.sign-up:hover {
 .call button.sign-up {
     border: 2px solid white;
 }
-
 .quote {
     background: #E5E7EB;
     display: flex;
@@ -136,7 +135,7 @@ button.sign-up:hover {
 .quote h3 {
     text-align: right;
     font-weight: bold;
-    max-width: 750px;
+    margin-left: auto;
 }
 .call {
    display: flex;
